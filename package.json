@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "jasmine": "^4.0.2"
+  },
+  "name": "quotemachine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "brace-expansion": "^1.1.11",
+    "balanced-match": "^1.0.2",
+    "concat-map": "^0.0.1",
+    "fs.realpath": "^1.0.0",
+    "glob": "^7.2.0",
+    "inflight": "^1.0.6",
+    "inherits": "^2.0.4",
+    "jasmine-core": "^4.0.0",
+    "minimatch": "^3.1.2",
+    "once": "^1.4.0",
+    "wrappy": "^1.0.2",
+    "path-is-absolute": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shawn Stensberg",
+  "license": "ISC",
+  "description": "An API that allows you to create, delete, edit, and retreive quotes"
+}
